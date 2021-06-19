@@ -1,0 +1,14 @@
+19.06.21 12:33
+Statystyka projektu
+
+                           	Segmentów	Wyrazów	Znaków (bez spacji)	Znaków (ze spacjami)	#Pliki	
+Całkowita liczba:          	       64	    594	               3240	                3775	     1	
+Pozostało:                 	       64	    594	               3240	                3775	     1	
+Niepowtarzalnych ogólnie:  	       64	    594	               3240	                3775	     1	
+Niepowtarzalnych pozostało:	       64	    594	               3240	                3775	     1	
+
+
+Statystyka poszczególnych plików:
+
+Nazwa pliku                      	Wszystkie segmenty	Segmentów pozostało	Unikalne segmenty	Unikalnych segmentów pozostało	Całkowita ilość wyrazów	Wyrazów pozostało	Unikalne wyrazy	Unikalnych wyrazów pozostało	Znaków (bez spacji)	Znaków pozostało (bez spacji)	Unikalne wyrazy (bez spacji)	Unikalnych wyrazów pozostało (bez spacji)	Znaków (ze spacjami)	Znaków pozostało (ze spacjami)	Unikalne wyrazy (ze spacjami)	Unikalnych wyrazów pozostało (ze spacjami)	
+Última cena_Sejam bem-vindos.docx	                64	                 64	               64	                            64	                    594	              594	            594	                         594	               3240	                         3240	                        3240	                                     3240	                3775	                          3775	                         3775	                                      3775	
